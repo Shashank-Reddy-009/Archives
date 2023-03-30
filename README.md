@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shashank-Reddy-009" alt="Shashank-Reddy-009" /></a> </p>
 
-- 🌱 I’m currently learning *HTML,CSS,JAVASCRIPT,REACT*
+🌱 I’m currently learning *HTML,CSS,JAVASCRIPT,REACT*
 
-- 📫 How to reach me *shashankv1259@gmail.com*
+📫 How to reach me *shashankv1259@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
